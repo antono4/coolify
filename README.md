@@ -1,2 +1,36 @@
-Last updated: 2026-09-16 06:58:47 WIB
-Last updated: 2026-09-16 07:33:50 WIB
+# coolify
+
+
+
+## 📋 Overview
+
+This repository contains **2988 files** and is built with the following technologies:
+
+Node.js, JavaScript, PHP
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+```bash
+php -S localhost:8000
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Node.js, JavaScript, PHP
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-16 08:39:32 WIB*
