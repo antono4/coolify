@@ -1,9 +1,6 @@
 name: Auto commit
 
 on:
-  push:
-    branches:
-      - v4.x
   schedule:
     - cron: "0 0 * * *" # See https://crontab.guru/
 
